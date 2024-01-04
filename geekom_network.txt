@@ -1,0 +1,3 @@
+Geekom Network
+Ethernet: 
+Wireless: 172.20.10.4
